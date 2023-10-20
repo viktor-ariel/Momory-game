@@ -46,9 +46,9 @@ h2{
     background-color: #ffc048;
 }
 .game{
-    border: 1px solid red;
-    width: 400px;
-    height: 400px;
+    /* border: 1px solid red;  control +k +c comment */
+    width: 430px;
+    height: 430px;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -63,17 +63,16 @@ h2{
     align-items: center;
     justify-content: center;
     background-color: #e9c6c6;
-
     font-size: 3em;
     transform: rotateY(180deg);
-    transition: 1.3s;
+    transition: 0.30s;
 }
 .item::after{
     content: "";
     position: absolute;
     inset: 0;
     background-color: #404040;
-    opacity: 0.85;
+    /* opacity: 0.85; */
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
