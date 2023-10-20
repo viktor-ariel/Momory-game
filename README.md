@@ -2,13 +2,13 @@
 
 ##  Memory Game 🚀
 
-## [CLIQUE AQUI](viktor-ariel.github.io/Momory-game/) para jogar agora
+## [CLIQUE AQUI](https://viktor-ariel.github.io/Momory-game/) para jogar agora
 
-<img src="6.png" atl="imagem-do-jogo-detona-ralph">
+<img src="img/5.png" atl="imagem-do-jogo-detona-ralph">
 
 ### ℹ️ Sobre o Jogo 
 
-
+O jogo estimula a curiosidade e a autoconfiança, proporcionando desenvolvimento da linguagem, do pensamento, da concentração e da atenção. 
 
 Durante a minha participação em um bootcamp de desenvolvimento de jogos criei esse jogo. Agradecemos por fazer parte desta jornada. Deixe um feedback de como melhorar. GRATIDÃO!
 
@@ -23,9 +23,12 @@ Algumas das tecnologias e linguagens que utilizamos incluem:
 
 ### 📞 Contato 💚
 
+
+
 Para entrar em contato conosco ou relatar problemas, você pode nos encontrar nas seguintes redes sociais ou nos enviar um e-mail:
 
 - Email: viktorariel777@gmail.com
+- Linkedin: [Viktor Ariel](https://www.linkedin.com/in/viktor-ariel/)
 
 
 Divirta-se e boa sorte!
