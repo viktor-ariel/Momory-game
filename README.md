@@ -25,7 +25,7 @@ Algumas das tecnologias e linguagens que utilizamos incluem:
 
 
 
-Para entrar em contato conosco ou relatar problemas, você pode nos encontrar nas seguintes redes sociais ou nos enviar um e-mail:
+Para entrar em contato ou relatar problemas, você pode me encontrar nas seguintes redes sociais ou me enviar um e-mail:
 
 - Email: viktorariel777@gmail.com
 - Linkedin: [Viktor Ariel](https://www.linkedin.com/in/viktor-ariel/)
